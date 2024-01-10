@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body {
+     font-family:'Montserrat';
+    margin: 0;
+    padding: 0;
+}
+
+header {
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #010101;
+    padding: 10px;
+}
+
+.logo h1 {
+    color: aliceblue;
+    margin-left: 60px;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 35px 15px;
+    
+}
+
+.judul h1{
+    padding: 20px;
+    margin-left: 50px;
+    font-size: 60px;
+    margin-right: 800px;
+
+}
+.judul p{
+    margin-right: 800px;
+    margin-left: 70px;
+ 
+
+
+}
+.gambar img {
+    padding: 20px;
+    margin-left: 50px;
+    border-radius: 40px;
+
+}
+
+    .BahayaP{
+    padding: 20px;
+    padding-right: 400px;
+    margin-left: 50px;
+}
+
+
+    
+
+.cara{
+    margin-left: 70px;
+}
+
+.button{
+    background-color: #000000;
+    color: aliceblue;
+    position: absolute;
+    top: 50%;
+    padding: 10px;
+    margin-top: 650px;
+    border-radius: 30px;
+}   

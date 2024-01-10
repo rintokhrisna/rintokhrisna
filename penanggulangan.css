@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body{
+    font-family: 'Montserrat';
+    padding: 0;
+    margin: 0;
+}
+
+header {
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #010101;
+    padding: 10px;
+}
+
+.logo h1 {
+    color: aliceblue;
+    margin-left: 60px;
+}
+
+.judul h1{
+    padding: 20px;
+    margin-left: 50px;
+    font-size: 60px;
+    margin-right: 800px;
+
+}
+.judul p{
+    margin-right: 600px;
+    margin-left: 70px;
+}
